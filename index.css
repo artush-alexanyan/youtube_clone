@@ -1,0 +1,23 @@
+html{
+  box-sizing: border-box;
+  font-family: Roboto, Arial, sans-serif;
+}
+.bg_black{
+  background-color: black;
+}
+.bg_mode{
+  background-color: rgb(32,32,32);
+}
+.bg_gray{
+  background-color: rgb(24,24,24);
+}
+.logo_image{
+  height: 66px;
+}
+.material-icons.menu{
+  font-size: 28px;
+}
+.content_wrapper{
+  height: 100vh;
+  overflow: scroll;
+}
